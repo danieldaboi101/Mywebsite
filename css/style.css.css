@@ -1,0 +1,83 @@
+#navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #000; 
+} 
+
+#navbar ul li { 
+	display: inline; 
+} 
+
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: #000; 
+} 
+
+#navbar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+}
+.header{
+	color:#FF00E9;
+	font-size:50px;
+    background-image:url("https://i.stack.imgur.com/wuYN2.jpg");
+	height:250px;
+	text-align:center;
+	padding:10px;
+	position:relative;
+	padding:15px;
+}
+.footer{
+	height:50px;
+	background-image:url("https://img.freepik.com/free-photo/old-wooden-texture-background-vintage_55716-1138.jpg?size=626&ext=jpg");
+	padding:15pz;
+}
+p{
+	color:#0079FF;
+    font-size:30px;
+    position:relative;
+	font-family: 'Kaushan Script', cursive;
+	text-align:center;
+}
+img{
+	padding:15px;
+	image-align:center;
+}
+body{
+	background-color:#FE65DA;
+}
+h1{
+	font-family: 'Monoton', cursive;
+	font-size:41px;
+	text-align:center;
+	color:#FFFFFF;
+}
+h2{
+	font-family: 'Josefin Slab', serif;
+	text-align:center;
+	color:#FFFFFF;
+}
+h3{
+	font-family: 'Philosopher', sans-serif;
+	text-align:center;
+	color:#FFFFFF;
+}
+h4{
+	font-family: 'Poiret One', cursive;
+	text-align:center;
+	color:#FFFFFF;
+}
+h5{
+	font-family: 'Montserrat Alternates', sans-serif;
+	text-align:center;
+	color:#FFFFFF;
+}
+h6{
+	font-family: 'Marck Script', cursive;
+	text-align:center;
+	color:#FFFFFF;
+}
